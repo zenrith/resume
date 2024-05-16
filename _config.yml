@@ -1,0 +1,14 @@
+title: Jeffrey
+
+logo: Pikachu_RB.jpg # Use a relative path to logo image 
+
+description: AI engineer in training
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag
+
+email: jeffreygx1@gmail.com
