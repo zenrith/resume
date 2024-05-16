@@ -7,11 +7,11 @@ Currently an AI Apprentice. I hope to fill the role of an AI Engineer in the nea
 **B.Sc.**, Data Science and Analytics, National University of Singapore (Jan 2019 - Jun 2023)
 
 ## 💼 Work experience
-AI Apprentice @ AI Singapore, (Jan 2024 – Present)
+**AI Apprentice @ AI Singapore, (Jan 2024 – Present)**
 - Hip Fracture Detection Project (Computer Vision)
     - Currently working on developing a computer vision system to help identify hip fractures in X-rays
 
-Business Intelligence Intern @ Abbott Medical (May 2022 – Jun 2023)
+**Business Intelligence Intern @ Abbott Medical (May 2022 – Jun 2023)**
 - Customer Segmentation Project (Marketing analytics)
     - Combined outlier detection and data clustering techniques to automatically segment customers based on recency, frequency, and monetary features.
     - Designed and built a frontend that enabled the marketing team to:
@@ -27,7 +27,7 @@ Business Intelligence Intern @ Abbott Medical (May 2022 – Jun 2023)
         - Modified evaluation metrics to obtain metrics like ROUGE and BLEU.
     - Frontend development: Designed and built a frontend that utilized the text classifier.
 
-Data Analyst Intern @ Lunch Actually (Jun 2021 – Aug 2021)
+**Data Analyst Intern @ Lunch Actually (Jun 2021 – Aug 2021)**
 - Refund Analysis Project (Dashboard Design)
     - Collected 3 years’ worth of reasons for refunds. Recategorized refund reasons and merged dataset with existing database data to obtain additional data fields.
     - Designed and presented a data story to higher management with the motivation of:
@@ -41,7 +41,6 @@ Data Analyst Intern @ Lunch Actually (Jun 2021 – Aug 2021)
 
 ## 🎧 Personal Projects
  - [Ames regression](https://github.com/zenrith/ames-regression)
-
     - Developed a regression model to predict house prices using the Ames dataset. Model performance ranked around top 20% on the Kaggle leaderboard.
     - Packaged and published the developed model on Pypi
     - Built an API to use the model as a service
