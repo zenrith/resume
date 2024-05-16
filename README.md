@@ -4,7 +4,7 @@
 Currently an AI Apprentice. I hope to fill the role of an AI Engineer in the near future.
 
 ## 🎓 Education
-**B.Sc.**, Data Science and Analytics, National University of Singapore (Jan 2019 - Jun 2023)
+**B.Sc.**, Data Science and Analytics with Honours (Distinction), National University of Singapore (Jan 2019 - Jun 2023)
 
 ## 💼 Work experience
 **AI Apprentice @ AI Singapore, (Jan 2024 – Present)**
